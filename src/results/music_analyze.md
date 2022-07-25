@@ -9,7 +9,6 @@ cover: "/image/results/2022/music_analyze/cover.png"
 description: spotifyユーザのTOP SONGから音楽の趣味の傾向を分析します
 repositories:
   [
-    "https://github.com/tsukuba-cojt/.github",
     "https://github.com/tsukuba-cojt/spotifyapi",
   ]
 students: [202011677]
