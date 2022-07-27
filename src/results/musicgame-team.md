@@ -17,6 +17,10 @@ students: [202213589, 202213518, 202010392]
 
 {% student_by_id students_data, students %}
 
+## プレイ
+
+https://unityroom.com/games/etude
+
 ## 概要
 
 **楽しく楽譜を読む練習ができる音ゲー​！**
