@@ -1,4 +1,15 @@
-<img class="mt-0" src="{{ cover}}" alt="{{ title }}" />
+<p class="text-xs">
+  <a href="/">トップ</a> / <a href="/results">成果発表一覧</a> /
+  <span>{{title}}</span>
+</p>
+
+<img
+  class="mt-0"
+  width="1200"
+  height="600"
+  src="{{ cover }}"
+  alt="{{ title }}"
+/>
 
 <header class="flex gap-x-4 items-center">
   <img
@@ -9,11 +20,11 @@
   <h1 class="my-0">{{title}}</h1>
 </header>
 
-<p class="text-sm">{{year}}年度 {{term}}に発表されました</p>
+<p class="text-sm">{{year}}年度{% conv_term_to_ja term %}に発表されました</p>
 
 <!-- prettier-ignore -->
 <section>
-<h2>repositories</h2>
+<h2>Repositories</h2>
 <ul class="text-xs font-mono">
 {% for repo in repositories %}
 <li><a href="{{repo}}">{{repo}}</a></li>
