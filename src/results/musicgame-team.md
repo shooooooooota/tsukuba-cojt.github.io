@@ -19,7 +19,7 @@ students: [202213589, 202213518, 202010392]
 
 ## プレイ
 
-https://unityroom.com/games/etude
+<a href="https://unityroom.com/games/etude"> プレイする(unityroom) </a>
 
 ## 概要
 
