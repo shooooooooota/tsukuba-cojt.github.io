@@ -26,6 +26,8 @@ students: [202011677]
 <img src="/image/results/2022/music_analyze/capture1.png" alt="アプリのキャプチャ" title="">
 
 
+
 ## 発表スライド
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQ6dMBxvdqAhNEJUizFdrwv1UvnqRfcey0ZMVlLTVMhdICUTTi1cqnHMwa6BXGkw/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="360" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
