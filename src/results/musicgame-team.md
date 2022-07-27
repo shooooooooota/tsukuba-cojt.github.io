@@ -17,6 +17,10 @@ students: [202213589, 202213518, 202010392]
 
 {% student_by_id students_data, students %}
 
+## プレイ
+
+<a href="https://unityroom.com/games/etude"> プレイする(unityroom) </a>
+
 ## 概要
 
 **楽しく楽譜を読む練習ができる音ゲー​！**
@@ -67,5 +71,9 @@ students: [202213589, 202213518, 202010392]
 <div class="youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2D5kfpHlp8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+### 発表資料
+
+<script async class="docswell-embed" src="https://www.docswell.com/assets/libs/docswell-embed/docswell-embed.min.js" data-src="https://www.docswell.com/slide/KVNX45/embed?key=2022-07-27-150005" data-aspect="0.5625"></script><div class="docswell-link"><a href="https://www.docswell.com/s/seisyun9665/KVNX45-2022-07-27-150005">COJT音ゲー発表資料 by @seisyun9665</a></div>
 
 {% include "related_results.njk" %}
