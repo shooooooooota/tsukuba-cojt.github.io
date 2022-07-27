@@ -90,7 +90,7 @@
 <header class="flex gap-x-4 items-center">
   <img
     class="w-16 h-16 rounded overflow-hidden my-0"
-    src="/image/ar_map_image.jpeg"
+    src="/image/AR_team_logo.png"
     alt="ARアプリ"
   />
   <h1 class="my-0">ARアプリ</h1>
@@ -106,11 +106,23 @@
 <h2>参加学生</h2>
 <ul><li><a href="/students/202010017">河上歩乃歌</a></li><li><a href="/students/202010246">香取賢佑</a></li><li><a href="/students/202010770">本田剛己</a></li></ul>
 <h2>作品紹介</h2>
-<p>ARの実現にはAR.jsを、地図の取得にはOpenStreetMapを利用、室内の測量にARやNFCを活用する。</p>
-<h2>取り組み</h2>
-<p>日鉄ソリュージョンズさんとAR/VR系のディスカッション&amp;見学会を6/10に行いました。</p>
-<p>於：</p>
-<p>虎ノ門ヒルズビジネスタワー</p>
+<p>筑波大学構内の案内に特化したARアプリです。</p>
+<h2>使った技術</h2>
+<h3>屋外経路探索の実装</h3>
+<p>GPS：利用者の位置情報を取得。</p>
+<p>Open route service：このAPIから目的地と利用者の位置情報が送信。</p>
+<p>AR.js / A-frame：経路を画面に表示。</p>
+<h3>屋内経路探索の実装</h3>
+<p>NFC：スマートフォンと接触させることで、シームレスに屋外モードから屋内モードへの切り替え。</p>
+<p>ARマーカー：要所に配置してこれを基準に経路を決定。</p>
+<p>AR.js / A-frame：ARマーカー上に経路を示す矢印を表示。</p>
+<h2>利用イメージ</h2>
+<p>実際に筑波大学構内で地図を利用したときのイメージです。</p>
+<div class="youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jSLZzZ-V9ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<h2>その他</h2>
+<p>日鉄ソリュージョンズさんのAR/VR系のディスカッション&amp;見学を行いました。</p>
 <p>システム研究開発センター</p>
 <div class="jumpu-card p-8 mt-16">
   <p class="font-bold text-xl mt-0">
