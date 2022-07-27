@@ -5,11 +5,12 @@
     {% include 'ogp.njk' %}
     <link rel="stylesheet" href="/style/style.css" />
     <title>{{ title }}</title>
+    <meta name="description" content="{{ description or site.description }}" />
   </head>
-  <body class="prose max-w-none bg-gray-50">
+  <body class="prose max-w-none flex flex-col h-screen bg-gray-50">
     {% include "header.njk" %}
     <div
-      class="container grid grid-cols-1 md:grid-cols-12 grid-flow-col gap-x-16 pt-8"
+      class="container grid grid-cols-1 md:grid-cols-12 grid-flow-col gap-x-16 pt-8 mb-auto"
     >
       <div class="col-span-3 hidden md:block">
         <nav class="side-menu">
@@ -22,9 +23,17 @@
           </ul>
         </nav>
       </div>
-      <main class="col-span-9">{{ content | safe }}</main>
+      <main class="md:col-span-9">{{ content | safe }}</main>
     </div>
 
     {% include "footer.njk" %}
+    <div
+      class="drawer-menu w-screen h-screen z-20 bg-white bg-opacity-95 fixed top-0 left-0"
+      id="drawer-menu-panel"
+      aria-hidden="true"
+    >
+      <div class="container pt-20">{% include "menus.njk" %}</div>
+    </div>
+    <script src="/script/global.js"></script>
   </body>
 </html>
