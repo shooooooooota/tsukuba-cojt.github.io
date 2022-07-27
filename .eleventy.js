@@ -55,6 +55,42 @@ module.exports = (eleventyConfig) => {
     );
     return resHTML + "</ul>";
   });
+
+  eleventyConfig.addShortcode("conv_term_to_ja", (term) => {
+    switch (term) {
+      case "spring":
+        return "春学期";
+      case "fall":
+        return "秋学期";
+      default:
+        return "";
+    }
+  });
+
+  eleventyConfig.addShortcode("conv_course_to_ja", (course) => {
+    switch (course) {
+      case "sw":
+        return "ソフトウェアコース";
+      case "hw":
+        return "ハードウェアコース";
+      default:
+        return "";
+    }
+  });
+
+  eleventyConfig.addShortcode(
+    "related_sameyear_results",
+    (results, year, term) => {
+      let filterResults = "";
+      results.forEach((result) => {
+        if (result.data.year === year && result.data.term === term) {
+          filterResults += `<li><a href="${result.url}">${result.data.title}</a></li>`;
+        }
+      });
+      return filterResults;
+    }
+  );
+
   return {
     pathPrefix: "",
     dir: {
