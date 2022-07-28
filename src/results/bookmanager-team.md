@@ -42,4 +42,10 @@ students: [201910702]
 
 ユーザーごとに独立した本棚を管理することができ，必要に応じて本棚の内容をシェアすることもできます。
 
+## 発表スライド
+
+春学期成果発表会で使用した発表スライドです。
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3qPkqvULh4fbwuq6vVc7qgTlFnTj-r6q2syJOkBpwIXDFmKqfau0ccHMs6yqeiF1jaBmsHNjuln6a/embed?start=false&loop=false&delayms=3000" frameborder="0" width="890" height="529" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 {% include "related_results.njk" %}
