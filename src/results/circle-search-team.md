@@ -7,7 +7,7 @@ term: spring
 icon: "/image/results/2022/circle/icon.png"
 cover: "/image/results/2022/circle/cover.png"
 description: サークルを簡単に検索できるサービス
-repositories: ["https://github.com/shunsuke0424/circle_search"]
+repositories: ["https://github.com/shunsuke0424/circle_kun"]
 students: [202011453, 202213594]
 ---
 
