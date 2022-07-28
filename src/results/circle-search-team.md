@@ -5,9 +5,9 @@ title: サークル検索サービス
 year: 2022
 term: spring
 icon: "/image/results/2022/circle/icon.png"
-cover: "/image/results/2022/circle/cover.png"
+cover: "/image/results/2022/circle/cover_new.png"
 description: サークルを簡単に検索できるサービス
-repositories: ["https://github.com/shunsuke0424/circle_search"]
+repositories: ["https://github.com/shunsuke0424/circle_kun"]
 students: [202011453, 202213594]
 ---
 
@@ -76,16 +76,15 @@ students: [202011453, 202213594]
 
 ## 機能・利用の流れ
 
-1. カテゴリ(大)を選択
-   KWやカテゴリ(体育、文化、芸術)だけでなく、活動場所、活動日時や人数でも検索が可能。なお、今回はカテゴリを用いた際の検索例を示す。
-   <img src="/image/results/2022/circle/検索(大).png" width="525" height="300">
-2. カテゴリ(小)を選択
+1. 分野を選択
+   KWや分野(体育、文化、芸術)だけでなく、活動場所、活動日時でも検索が可能。なお、今回は分野を用いた際の検索例を示す。
+2. カテゴリを選択
    入力したカテゴリ(大)に応じて、カテゴリ(小)では、カテゴリ(大)に入っている全サークルがプルダウンで提示される。その中で興味のあるキーワードを選択。
-   <img src="/image/results/2022/circle/検索(小).png" width="525" height="300">
+   <img src="/image/results/2022/circle/カテゴリ検索.png" width="525" height="300">
 
 ## 工夫した点
 
-1. カテゴリ(小)を追加し、全サークルがカテゴリ(小)のどこかに分類されるようにした。
+1. カテゴリを追加し、全サークルがカテゴリのどこかに分類されるようにした。
    そうすることで、「こんなサークル知らなかった！」という発見を促すことができる。
    興味のある・名称を知っているサークル検索以外のニーズも満たせると考える
    以下に運動カテゴリを選んだ時に、表示されるカテゴリ(小)を示す。
@@ -93,6 +92,11 @@ students: [202011453, 202213594]
 
 ## 実際の画面
 
-<img src="/image/results/2022/circle/image.png" width="565" height="400">
+<img src="/image/results/2022/circle/image_1.png" width="565" height="400">
+<img src="/image/results/2022/circle/image_2.png" width="565" height="400">
+<img src="/image/results/2022/circle/image_3.png" width="565" height="400">
+<img src="/image/results/2022/circle/image_4.png" width="565" height="400">
+<img src="/image/results/2022/circle/image_5.png" width="565" height="400">
+<img src="/image/results/2022/circle/image_6.png" width="565" height="400">
 
 {% include "related_results.njk" %}
