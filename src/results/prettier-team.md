@@ -25,8 +25,8 @@ students: [201911343, 202011445]
 
 詳しくは公式のリリースブログ https://prettier.io/blog/2022/06/14/2.7.0.html をご覧ください。
 
-{% include "related_results.njk" %}
-
 ## 発表スライド
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT75zZpUvIxCfvTYdOjDzT1jEGPXi8mSaveW9bIlnnHPrLYjZprCTFPEDdlYqw8cW8Sjr3-BxD2jELS/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+{% include "related_results.njk" %}
