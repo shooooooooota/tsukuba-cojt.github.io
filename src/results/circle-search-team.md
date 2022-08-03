@@ -7,7 +7,7 @@ term: spring
 icon: "/image/results/2022/circle/icon.png"
 cover: "/image/results/2022/circle/cover_new.png"
 description: サークルを簡単に検索できるサービス
-repositories: ["https://github.com/shunsuke0424/circle_kun"]
+repositories: ["https://github.com/shunsuke0424/circle-kun"]
 students: [202011453, 202213594]
 ---
 
@@ -92,7 +92,7 @@ students: [202011453, 202213594]
 
 ## 実際の画面
 
-<img src="/image/results/2022/circle/image_1.png" width="565" height="400">
+<img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/image_1.png" width="565" height="400">
 <img src="/image/results/2022/circle/image_2.png" width="565" height="400">
 <img src="/image/results/2022/circle/image_3.png" width="565" height="400">
 <img src="/image/results/2022/circle/image_4.png" width="565" height="400">
