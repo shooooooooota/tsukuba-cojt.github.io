@@ -88,15 +88,15 @@ students: [202011453, 202213594]
    そうすることで、「こんなサークル知らなかった！」という発見を促すことができる。
    興味のある・名称を知っているサークル検索以外のニーズも満たせると考える
    以下に運動カテゴリを選んだ時に、表示されるカテゴリ(小)を示す。
-   <img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/運動カテゴリ(小).png" width="450" height="500">
+   <img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/運動カテゴリ(小).png" width="450" height="470">
 
 ## 実際の画面
 
-<img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/image_1.png" width="565" height="400">
-<img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/image_2.png" width="565" height="400">
-<img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/image_3.png" width="565" height="400">
-<img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/image_4.png" width="565" height="400">
-<img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/image_5.png" width="565" height="400">
-<img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/image_6.png" width="565" height="400">
+<img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/image_1.png" width="565" height="450">
+<img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/image_2.png" width="565" height="450">
+<img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/image_3.png" width="565" height="450">
+<img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/image_4.png" width="565" height="450">
+<img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/image_5.png" width="565" height="450">
+<img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/image_6.png" width="565" height="450">
 
 {% include "related_results.njk" %}
