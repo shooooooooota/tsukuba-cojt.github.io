@@ -47,11 +47,11 @@ students: [202011453, 202213594]
 
 現在、筑波大学サークル一覧検索システムとして、[筑波大学 新歓 Web](https://www.stb.tsukuba.ac.jp/~shinkan-web/ "筑波大学 新歓 Web")が挙げられる。以下に筑波大学新歓Webの画面例を示す。
 
-<img src="/image/results/2022/circle/筑波大学新歓web_1.png" width="525" height="300">
+<img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/筑波大学新歓web_1.png" width="525" height="300">
 
-<img src="/image/results/2022/circle/筑波大学新歓web_2.png" width="525" height="300">
+<img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/筑波大学新歓web_2.png" width="525" height="300">
 
-<img src="/image/results/2022/circle/筑波大学新歓web_3.png" width="525" height="300">
+<img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/筑波大学新歓web_3.png" width="525" height="300">
 
 ### 2.1既存システムの問題点
 
@@ -80,7 +80,7 @@ students: [202011453, 202213594]
    KWや分野(体育、文化、芸術)だけでなく、活動場所、活動日時でも検索が可能。なお、今回は分野を用いた際の検索例を示す。
 2. カテゴリを選択
    入力したカテゴリ(大)に応じて、カテゴリ(小)では、カテゴリ(大)に入っている全サークルがプルダウンで提示される。その中で興味のあるキーワードを選択。
-   <img src="/image/results/2022/circle/カテゴリ検索.png" width="525" height="300">
+   <img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/カテゴリ検索.png" width="525" height="300">
 
 ## 工夫した点
 
@@ -88,15 +88,15 @@ students: [202011453, 202213594]
    そうすることで、「こんなサークル知らなかった！」という発見を促すことができる。
    興味のある・名称を知っているサークル検索以外のニーズも満たせると考える
    以下に運動カテゴリを選んだ時に、表示されるカテゴリ(小)を示す。
-   <img src="/image/results/2022/circle/運動カテゴリ(小).png" width="450" height="500">
+   <img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/運動カテゴリ(小).png" width="450" height="500">
 
 ## 実際の画面
 
 <img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/image_1.png" width="565" height="400">
-<img src="/image/results/2022/circle/image_2.png" width="565" height="400">
-<img src="/image/results/2022/circle/image_3.png" width="565" height="400">
-<img src="/image/results/2022/circle/image_4.png" width="565" height="400">
-<img src="/image/results/2022/circle/image_5.png" width="565" height="400">
-<img src="/image/results/2022/circle/image_6.png" width="565" height="400">
+<img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/image_2.png" width="565" height="400">
+<img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/image_3.png" width="565" height="400">
+<img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/image_4.png" width="565" height="400">
+<img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/image_5.png" width="565" height="400">
+<img src="https://github.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/image_6.png" width="565" height="400">
 
 {% include "related_results.njk" %}
