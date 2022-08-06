@@ -80,7 +80,7 @@ students: [202011453, 202213594]
    KWや分野(体育、文化、芸術)だけでなく、活動場所、活動日時でも検索が可能。なお、今回は分野を用いた際の検索例を示す。
 2. カテゴリを選択
    入力したカテゴリ(大)に応じて、カテゴリ(小)では、カテゴリ(大)に入っている全サークルがプルダウンで提示される。その中で興味のあるキーワードを選択。<br/>
-   <img src="https://raw.githubusercontent.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/search_category.png" width="525" height="300">
+   <img src="https://raw.githubusercontent.com/tsukuba-cojt/tsukuba-cojt.github.io/main/src/image/results/2022/circle/search_category.png" width="525" height="300">
 
 ## 工夫した点
 
@@ -88,7 +88,7 @@ students: [202011453, 202213594]
    そうすることで、「こんなサークル知らなかった！」という発見を促すことができる。
    興味のある・名称を知っているサークル検索以外のニーズも満たせると考える
    以下に運動カテゴリを選んだ時に、表示されるカテゴリ(小)を示す。<br/>
-   <img src="https://raw.githubusercontent.com/tsukuba-cojt/tsukuba-cojt.github.io/blob/main/src/image/results/2022/circle/ex_ath_category.png" width="450" height="470">
+   <img src="https://raw.githubusercontent.com/tsukuba-cojt/tsukuba-cojt.github.io/main/src/image/results/2022/circle/ex_ath_category.png" width="450" height="470">
 
 ## 実際の画面
 
